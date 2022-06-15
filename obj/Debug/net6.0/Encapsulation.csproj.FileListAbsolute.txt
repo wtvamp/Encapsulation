@@ -1,0 +1,15 @@
+/home/wtvamp/Source/Encapsulation/bin/Debug/net6.0/Encapsulation
+/home/wtvamp/Source/Encapsulation/bin/Debug/net6.0/Encapsulation.deps.json
+/home/wtvamp/Source/Encapsulation/bin/Debug/net6.0/Encapsulation.runtimeconfig.json
+/home/wtvamp/Source/Encapsulation/bin/Debug/net6.0/Encapsulation.dll
+/home/wtvamp/Source/Encapsulation/bin/Debug/net6.0/Encapsulation.pdb
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.AssemblyReference.cache
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfoInputs.cache
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.AssemblyInfo.cs
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.csproj.CoreCompileInputs.cache
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.dll
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/refint/Encapsulation.dll
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.pdb
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/Encapsulation.genruntimeconfig.cache
+/home/wtvamp/Source/Encapsulation/obj/Debug/net6.0/ref/Encapsulation.dll
